@@ -1,0 +1,30 @@
+.Calculator-border{
+    border: 1px solid gray;
+    width: 300px;
+    border-radius: 5px;
+}
+.Calculator-function{
+    text-align: center;
+    width: 100%;
+}
+.input-value{
+    width: 75%;
+    margin: 10px;
+    padding: 20px 0px;
+    border-radius: 10px;
+
+}
+.Calculator-button{
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.button{
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+}
